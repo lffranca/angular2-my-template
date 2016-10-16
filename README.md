@@ -1,1 +1,1 @@
-# angular2-my-template
+# Angular2 my-template
