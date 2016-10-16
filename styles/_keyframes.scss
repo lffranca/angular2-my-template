@@ -1,0 +1,19 @@
+@keyframes animacaoBolada {
+   0% { 
+      background: black;
+      width: 100px;
+   }
+   25% {
+      background: green; 
+   }
+   50% { 
+      background: blue; 
+   }
+   75% { 
+      background: red;
+   }
+   100% { 
+      background: yellow;
+      width: 200px;
+   }
+}
